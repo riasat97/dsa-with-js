@@ -1,5 +1,5 @@
 let arr= [12,14,36,36,36,36,36,90,100];
-let target= 0;
+let target= 36;
 
 function binarySearch(arr,target){
     let left=0;
